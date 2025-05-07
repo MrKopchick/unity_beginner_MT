@@ -2014,7 +2014,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '30 coins for next dungeon
+  m_text: '25 coins for next dungeon
 
 '
   m_isRightToLeft: 0
@@ -2733,8 +2733,8 @@ Transform:
   - {fileID: 964789937}
   - {fileID: 1039584954}
   - {fileID: 1272055571}
-  - {fileID: 1306941819}
   - {fileID: 525562908}
+  - {fileID: 1306941819}
   - {fileID: 1451494084}
   - {fileID: 1499200802}
   - {fileID: 413751747}
