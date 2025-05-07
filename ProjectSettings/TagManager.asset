@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - coin
+  - damageZone
+  - enemy
   layers:
   - Default
   - TransparentFX
